@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileTagSet
   Type="Author"
   Comment="My set of status tags"
   conditions="">
   <FileTag
-    Name="Bill"
+    Name="Thomas DW"
     Comment="" />
   <FileTag
-    Name="Aaron"
+    Name="Tessa"
     Comment="" />
   <FileTag
-    Name="Cathy"
+    Name="Evert"
     Comment="" />
   <FileTag
-    Name="Donna"
+    Name="Dieter"
     Comment="" />
   <FileTag
-    Name="Ed"
+    Name="Stijn"
     Comment="" />
 </CatapultFileTagSet>

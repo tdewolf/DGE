@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Collibra">Collibra</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumberBE"
+    EvaluatedDefinition="+32 2 894 79 60">+32 2 894 79 60</Variable>
+  <Variable
+    Name="PhoneNumberUS"
+    Comment=""
+    EvaluatedDefinition="+1 646 893 3042">+1 646 893 3042</Variable>
+  <Variable
+    Name="Twitter"
+    Comment=""
+    EvaluatedDefinition="@collibra">@collibra</Variable>
+  <Variable
+    Name="DGCFullName"
+    Comment=""
+    EvaluatedDefinition="Data Governance Center">Data Governance Center</Variable>
+  <Variable
+    Name="DGCAcronym"
+    Comment=""
+    EvaluatedDefinition="DGC">DGC</Variable>
+</CatapultVariableSet>
