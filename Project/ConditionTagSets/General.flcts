@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultConditionTagSet
   Comment="My set of condition tags"
   conditions="">
@@ -12,4 +12,14 @@
     Comment=""
     Color="Normal"
     OriginalName="Online" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Collibra"
+    Comment=""
+    OriginalName="Collibra" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="ResellerA"
+    Comment=""
+    OriginalName="ResellerA" />
 </CatapultConditionTagSet>

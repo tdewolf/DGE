@@ -24,4 +24,12 @@
     Name="DGCAcronym"
     Comment=""
     EvaluatedDefinition="DGC">DGC</Variable>
+  <Variable
+    Name="Reseller"
+    Comment=""
+    EvaluatedDefinition="Reseller Collibra">Reseller Collibra</Variable>
+  <Variable
+    Name="DGCReseller"
+    Comment=""
+    EvaluatedDefinition="Product Reseller DGC">Product Reseller DGC</Variable>
 </CatapultVariableSet>
